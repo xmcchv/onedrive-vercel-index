@@ -57,7 +57,7 @@ module.exports = {
     },
     {
       name: '博客',
-      link: 'xmcchv.github.io',
+      link: 'https://xmcchv.github.io/',
     },
   ],
 
